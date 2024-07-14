@@ -1,6 +1,7 @@
 # Table of contents
 
-* [链接器第1部分](README.md)
+* [README](README.md)
+* [链接器第1部分](<README (1).md>)
 * [链接器第2部分](lian-jie-qi-di-2-bu-fen.md)
 * [链接器第3部分](lian-jie-qi-di-3-bu-fen.md)
 * [链接器第4部分](lian-jie-qi-di-4-bu-fen.md)
